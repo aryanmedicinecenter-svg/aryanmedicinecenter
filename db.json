@@ -1,0 +1,16 @@
+{
+  "orders": [
+    {
+      "name": "SHRUTI SHAH",
+      "phone": "970411",
+      "address": "BRT",
+      "medicine": "SINEX"
+    },
+    {
+      "name": "SMRITI SHAH",
+      "phone": "9804927105",
+      "address": "BRT",
+      "medicine": "SINEX AND FLEXON"
+    }
+  ]
+}
